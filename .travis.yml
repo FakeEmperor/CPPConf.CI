@@ -28,10 +28,10 @@ addons:
       - llvm-toolchain-trusty-4.0
     packages:
       - g++-4.9
-      - g++-5
-      - g++-6
-      - clang-3.9
-      - clang-4.0
+#      - g++-5
+#      - g++-6
+#      - clang-3.9
+#      - clang-4.0
 
 #matrix:
 #  include:
