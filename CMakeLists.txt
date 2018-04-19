@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8.9)
-PROJECT (CPPConf_RUSSIA_CONF CXX)
+PROJECT (hello CXX)
 
 include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
 conan_basic_setup()
